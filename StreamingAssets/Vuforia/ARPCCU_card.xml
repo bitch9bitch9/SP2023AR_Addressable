@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig>
+  <Tracking>
+    <ImageTarget name="KDA2" size="32.000000 23.634369" />
+    <ImageTarget name="KDAlogo1" size="32.000000 13.274725" />
+    <ImageTarget name="QR3" size="32.000000 32.000000" />
+    <ImageTarget name="QR2" size="32.000000 32.000000" />
+    <ImageTarget name="QR1" size="32.000000 32.000000" />
+    <ImageTarget name="Work" size="24.000000 25.169811" />
+    <ImageTarget name="Dinosaur" size="24.000000 31.992188" />
+    <ImageTarget name="1" size="32.000000 41.131802" />
+    <ImageTarget name="Astronaut-scaled" size="25.000000 43.181820" />
+  </Tracking>
+</QCARConfig>

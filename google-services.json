@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "935824609750",
+    "firebase_url": "https://fir-test-c22e0-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "fir-test-c22e0",
+    "storage_bucket": "fir-test-c22e0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935824609750:android:8f03d3efe89fb612409477",
+        "android_client_info": {
+          "package_name": "com.cgame.firebasetest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935824609750-nu2el94sh99gj0o5mf5tj50ldd8no9v8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.cgame.firebasetest",
+            "certificate_hash": "0a2a280643cf5c17ff4cd681604f64f89e262fcb"
+          }
+        },
+        {
+          "client_id": "935824609750-put3ncqvhj4r98fulhvb4mj4qis2tpsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDgX1YzMmVWhSNOTHN86JBj9hZeTJV6adE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935824609750-cr9g1dhftotbr111oo97ao16kihhpg2b.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

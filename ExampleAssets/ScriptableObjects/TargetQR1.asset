@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 027202a0c45fdc24a9f02cdf4a1c5393, type: 3}
+  m_Name: TargetQR1
+  m_EditorClassIdentifier: 
+  objectName: QR1
+  imageTarget: {fileID: 5423282546404049101, guid: eed673e116a5fff4cb80bcc9b4986e8e,
+    type: 3}
+  bindCode: XOS6LUXG7S
